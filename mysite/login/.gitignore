@@ -1,0 +1,4 @@
+.idea
+settings.py
+db.sqlites3
+mysite/__pycache__/
